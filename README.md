@@ -88,7 +88,7 @@ Remaining Useful Life Prediction in Edge-Based Industrial Systems,"
 
 ## Paper
 
-📄 Full paper: [Add arXiv/conference link when available]
+📄 Full paper: [https://ieeexplore.ieee.org/document/11491433]
 
 ## Key Findings
 
